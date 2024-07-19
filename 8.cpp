@@ -1,32 +1,35 @@
-/*8. Elabore un código que solicite dos números y 
-que permita seleccionar la operación con 1 para sumar y 2 para restar. */
+/*8. Elabore un cÃ³digo que solicite dos nÃºmeros y
+que permita seleccionar la operaciÃ³n con 1 para sumar y 2 para restar. */
 
-#include<iostream>
-#include<windows.h>
+#include <iostream>
+#include <windows.h>
 
 using namespace std;
 
-int main(){
+int main()
+{
 	int opcion;
 	float a, b;
-	cout<<"	     MENU";
-	cout<<"\n1. Sumar";
-	cout<<"\n2. Restar";
-	cout<<"\nSeleccione el numero de la opcion: ";
-	cin>>opcion;
-	
-	switch(opcion)
+	cout << "	     MENU";
+	cout << "\n1. Sumar";
+	cout << "\n2. Restar";
+	cout << "\nSeleccione el numero de la opcion: ";
+	cin >> opcion;
+
+	switch (opcion)
 	{
-		case 1: system("cls");
-		cout<<"Ingrese dos valores: ";
-		cin>>a>>b;
-		cout<<"\nEl resultado de la suma es: "<<a+b;
+	case 1:
+		system("cls");
+		cout << "Ingrese dos valores: ";
+		cin >> a >> b;
+		cout << "\nEl resultado de la suma es: " << a + b;
 		break;
-		
-		case 2: system("cls");
-		cout<<"Ingrese dos valores: ";
-		cin>>a>>b;
-		cout<<"\nEl resultado de la resta es: "<<a-b;
+
+	case 2:
+		system("cls");
+		cout << "Ingrese dos valores: ";
+		cin >> a >> b;
+		cout << "\nEl resultado de la resta es: " << a - b;
 		break;
 	}
 	return 0;

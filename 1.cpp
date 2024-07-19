@@ -1,22 +1,26 @@
-/*1.	Elabore un c�digo que solicite un n�mero, en base a este dato imprimir si el n�mero es positivo. */
+/*1.	Elabore un código que solicite un número, en base a este dato imprimir si el número es positivo. */
 
-#include<iostream>
+#include <iostream>
 
 using namespace std;
 
-int main(){
-float numero; 
+int main()
+{
+  float numero;
 
-cout<<"Digite un numero: "; cin>>numero;
+  cout << "Digite un número: ";
+  cin >> numero;
 
-if(numero>0){
-	
-cout<<"\nEl numero que digito es positivo.";
+  if (numero > 0)
+  {
 
-}else{
-	
-cout<<"\nEl numero que digito es negativo.";
- }
-
-return 0;
+    cout << "\nEl número que digitó es positivo.";
   }
+  else
+  {
+
+    cout << "\nEl número que digito es negativo.";
+  }
+
+  return 0;
+}

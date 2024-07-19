@@ -1,5 +1,5 @@
-/*4. Hacer un cÛdigo que lea los nombres y edades de dos personas 
-y muestre cu·l de ellas tiene m·s edad.*/
+/*4. Hacer un c√≥digo que lea los nombres y edades de dos personas 
+y muestre cu√°l de ellas tiene m√°s edad.*/
 
 #include<iostream>
 

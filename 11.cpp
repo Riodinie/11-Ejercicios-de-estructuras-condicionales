@@ -1,10 +1,9 @@
-/*11.	Realizar un código que imprima las siguientes opciones "1.- suma 2.- resta 3.- multiplicación 4.- división". 
-Posteriormente debe solicitar dos números, así mismo debe solicitar el número de la operación a realizar sobre los
-números solicitados previamente. Es decir, si la opción seleccionada es 1 debe realizar la suma de los números e 
- imprimir el resultado. Si la opción seleccionada es 2 debe realizar la resta de los números e imprimir el resultado. 
- Si la opción seleccionada es 3 debe realizar la multiplicación de los números e imprimir el resultado. Si la opción 
- seleccionada es 4 debe realizar la división de los números e imprimir el resultado. La entrega de la actividad será impresa. 
- Considerar la ortografía y limpieza. */
+/*11.	Realizar un cÃ³digo que imprima las siguientes opciones "1.- suma 2.- resta 3.- multiplicaciÃ³n 4.- divisiÃ³n". 
+Posteriormente debe solicitar dos nÃºmeros, asÃ­ mismo debe solicitar el nÃºmero de la operaciÃ³n a realizar sobre los
+nÃºmeros solicitados previamente. Es decir, si la opciÃ³n seleccionada es 1 debe realizar la suma de los nÃºmeros e 
+ imprimir el resultado. Si la opciÃ³n seleccionada es 2 debe realizar la resta de los nÃºmeros e imprimir el resultado. 
+ Si la opciÃ³n seleccionada es 3 debe realizar la multiplicaciÃ³n de los nÃºmeros e imprimir el resultado. Si la opciÃ³n 
+ seleccionada es 4 debe realizar la divisiÃ³n de los nÃºmeros e imprimir el resultado.*/
 
 #include<iostream>
 #include<windows.h>
