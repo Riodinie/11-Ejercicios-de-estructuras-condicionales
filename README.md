@@ -20,10 +20,10 @@ más edad.
 
 5. En una Granja existen N conejos, N1 blancos y N2 negros. Se venden X negros y Y blancos.
 Hacer un código que:
-  - Imprima la cantidad de conejos vendida.
-  - Si P1 es el precio de venta de los conejos blancos y P2 es el precio de venta de los conejos 
+   - Imprima la cantidad de conejos vendida.
+   - Si P1 es el precio de venta de los conejos blancos y P2 es el precio de venta de los conejos 
 negros, imprima el monto total de la venta.
-  - Imprima el color de los conejos que se vendieron más.
+   - Imprima el color de los conejos que se vendieron más.
 
 6. Un decreto presidencial permite el aumento del 10% a aquellos trabajadores que ganen el 
 sueldo mínimo oficial. Hacer un código que lea el sueldo de un trabajador e imprima el 
